@@ -7,7 +7,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // LINEチャンネルアクセストークン
-const CHANNEL_ACCESS_TOKEN = 'YOUR_CHANNEL_ACCESS_TOKEN';
+const CHANNEL_ACCESS_TOKEN = 'KfEV7yDiLuaMU9iaiD4XpiAyWWFXBGvxAkqwZ2E5jBfhQOTCGwckXmx6Hoo2XtnBCv+TbwCWYuHnrqmeLZIo6p3K4gXmSSOF0/SGFoBdGieizCIj/L7VtCz2DhLagaOjosXMwiIRvMyVhbmdf45vRAdB04t89/1O/w1cDnyilFU=';
 
 // 言葉リスト（タイ語50個）
 const words = {
